@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "uo/fcXUR8l8CB+POMtMKmdxn+5fPmnnxWgdgns3Eh/Ed1X51YAK+RUexVfWRtFJ7dR1WDjVhYAmd9crE0HM72w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yilmaz.tasdelen\\desktop\\azure\\az204-auth\\az204-auth.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yilmaz.tasdelen\\.nuget\\packages\\microsoft.identity.client\\4.65.0\\microsoft.identity.client.4.65.0.nupkg.sha512",
+    "C:\\Users\\yilmaz.tasdelen\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.35.0\\microsoft.identitymodel.abstractions.6.35.0.nupkg.sha512",
+    "C:\\Users\\yilmaz.tasdelen\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.1\\system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
+    "C:\\Users\\yilmaz.tasdelen\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://www.nuget.org/api/v2/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
